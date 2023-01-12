@@ -574,4 +574,6 @@ display: block;
     line-height: 15px;
     font-size: 14px;
 }
-  
+.show-ingradients{
+  display: none;
+}
